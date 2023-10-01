@@ -1,6 +1,6 @@
 # skland-checkin-ghaction
 
-利用 GitHub Action 自动完成森空岛签到，基于[Maojuan-lang](https://github.com/Maojuan-lang/SenKongDao)的实现包装。
+利用 GitHub Action 自动完成森空岛签到，基于[xxyz30](https://gitee.com/FancyCabbage/skyland-auto-sign#mode3)。
 
 ## How to use
 1. 进入自己仓库的项目主页后，在上方的菜单中进入Settings > Secrets and variables > Actions
