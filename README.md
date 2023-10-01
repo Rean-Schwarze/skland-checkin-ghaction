@@ -2,7 +2,7 @@
 
 利用 GitHub Action 自动完成森空岛签到，基于[Maojuan-lang](https://github.com/Maojuan-lang/SenKongDao)的实现包装。
 
-## How to
+## How to use
 1. fork 本仓库
 2. 点击顶部 Settings 选项卡进入仓库设置
 3. 左侧栏找到 Security 一节，点击展开 Secrets and variables，点击 Actions
