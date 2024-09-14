@@ -311,6 +311,7 @@ def start():
         except Exception as ex:
             print(f'签到失败，原因：{str(ex)}')
             logging.error('', exc_info=ex)
+            exit(-1)
     print("签到完成！")
 
 
